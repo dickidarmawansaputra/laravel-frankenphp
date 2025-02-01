@@ -85,6 +85,3 @@ PATH="$PWD:$PATH" frankenphp php-cli artisan octane:frankenphp
 
 ### Result Stress Test
 <img width="1038" alt="image" src="https://github.com/user-attachments/assets/fa85826a-e07b-4259-8bc8-10387d981266" />
-
-
-
