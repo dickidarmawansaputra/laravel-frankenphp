@@ -50,6 +50,7 @@ localhost {
 php artisan serve
 ```
 <img width="1038" alt="image" src="https://github.com/user-attachments/assets/3d3e29cc-092f-42f0-a5bb-bf15cafdf392" />
+
 - Command
 ```bash
 franken run
@@ -69,6 +70,7 @@ composer require laravel/octane
 php artisan octane:frankenphp
 ```
 <img width="1038" alt="image" src="https://github.com/user-attachments/assets/74062ed8-3def-43eb-9c07-2d3f96908d37" />
+
 - Command:
 ```bash
 php artisan octane:frankenphp --host=127.0.0.1 --port=8000 --workers=4
