@@ -1,0 +1,9 @@
+services:
+  laravel-frankenphp:
+    container_name: laravel-frankenphp
+    image: image-laravel-frankenphp
+    build: .
+    ports:
+      - 8000:80
+    env_file:
+      - .env
